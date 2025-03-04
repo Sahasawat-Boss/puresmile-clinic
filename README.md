@@ -2,7 +2,8 @@
 
 **Modern and responsive dental clinic website.**
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/73ba270a-cbfd-40aa-95bc-41d0dae8ff28)
+
 
 ---
 
@@ -20,7 +21,12 @@
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshots Desktop
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/df21fa73-1488-4fac-b6bd-e8ef5b0697c2)
+
 ![alt text](image-3.png)
+
+## 📷 Screenshots Mobile
+Mobile
+![image](https://github.com/user-attachments/assets/74321e98-1f65-431e-98f5-ab5163e9080e)
