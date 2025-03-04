@@ -28,5 +28,4 @@
 ![alt text](image-3.png)
 
 ## 📷 Screenshots Mobile
-Mobile
 ![image](https://github.com/user-attachments/assets/74321e98-1f65-431e-98f5-ab5163e9080e)
